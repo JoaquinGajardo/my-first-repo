@@ -1,0 +1,23 @@
+commit b1f05b619552e923c46f2f6b1db32c6ba5424a35
+Author: JoaquinGajardo <joaquin.gajardocastillo@epfl.ch>
+Date:   Tue Apr 21 22:40:18 2020 +0200
+
+    added gitignore
+
+commit 587b2c76559ccfb3f816376f93de997ecdbcbbcf
+Author: JoaquinGajardo <joaquin.gajardocastillo@epfl.ch>
+Date:   Tue Apr 21 22:35:46 2020 +0200
+
+    added gitignore
+
+commit 9a7a903c840642d7146ccbbe3fade78d4f18b6f2
+Author: JoaquinGajardo <joaquin.gajardocastillo@epfl.ch>
+Date:   Tue Apr 21 22:19:38 2020 +0200
+
+    added four files
+
+commit 7ee461d0062c7942b3b7e2480a0c99f66f89a99f
+Author: JoaquinGajardo <joaquin.gajardocastillo@epfl.ch>
+Date:   Tue Apr 21 22:07:46 2020 +0200
+
+    added readme.txt
