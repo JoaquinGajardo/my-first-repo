@@ -1,30 +1,20 @@
-# This is a large heading
+# My personal page
 
-## This is a smaller heading
+## Background
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm a master student on Environmental Science and Engineering at EPFL. Currently doing an internship a EMPA, St.Gallen.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+##Vision
 
-Here is `some code` in the middle of a sentence.
+I'm interested in any sciences or engineering project that focuses on having a positive impact on sustainability.
 
-```
-This is
-a block
-of code
-```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+## Research interests
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+- Environmental modelling and monitoring
+- Applied machine learning
+- Remote sensing
+- Renewable energies
+- Circular economy 
 
-nano README.md
