@@ -18,3 +18,6 @@ I'm interested in any sciences or engineering project that focuses on having a p
 - Renewable energies
 - Circular economy 
 
+## Contact
+
+email: joaquin.gajardocastillo@epfl.ch
